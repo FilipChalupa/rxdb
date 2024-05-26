@@ -467,7 +467,7 @@
     "js-base64": "3.7.7",
     "jsonschema-key-compression": "1.7.0",
     "lokijs": "1.5.12",
-    "mingo": "6.4.13",
+    "mingo": "6.4.15",
     "mongodb": "6.6.2",
     "nats": "2.26.0",
     "oblivious-set": "1.4.0",
